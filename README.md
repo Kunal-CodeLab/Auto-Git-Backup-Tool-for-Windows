@@ -55,6 +55,10 @@ The tool uses a `config.json` file with the following settings:
 - **log_level**: Logging level (DEBUG, INFO, WARNING, ERROR)
 - **max_log_size**: Maximum log file size in bytes (default: 10MB)
 
+
+https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%201.PNG
+
+
 ## Usage
 
 ### First Time Setup
@@ -62,6 +66,10 @@ The tool uses a `config.json` file with the following settings:
 2. Configure your project folder and Git remote URL
 3. Click "Save & Start Service"
 4. The tool will appear in your system tray
+
+
+https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%202.PNG
+
 
 ### Running as Service
 ```bash
