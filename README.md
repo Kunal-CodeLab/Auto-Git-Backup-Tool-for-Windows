@@ -56,7 +56,7 @@ The tool uses a `config.json` file with the following settings:
 - **max_log_size**: Maximum log file size in bytes (default: 10MB)
 
 
-https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%201.PNG
+![Image Alt](https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%201.PNG)
 
 
 ## Usage
@@ -68,7 +68,7 @@ https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95ac
 4. The tool will appear in your system tray
 
 
-https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%202.PNG
+![Image Alt](https://github.com/Kunal-CodeLab/Auto-Git-Backup-Tool-for-Windows/blob/7212c95acdf314c0d95c507ab7b14b16def399c1/Image%202.PNG)
 
 
 ### Running as Service
